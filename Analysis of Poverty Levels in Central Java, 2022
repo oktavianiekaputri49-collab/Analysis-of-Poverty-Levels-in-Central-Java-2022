@@ -1,0 +1,32 @@
+📊 Analysis of Poverty Levels in Central Java, 2022
+This project explores poverty levels across regencies and cities in Central Java Province in 2022 using official data published by Statistics Indonesia (BPS). The analysis aims to identify regions with the highest and lowest poverty rates while providing insights into socioeconomic disparities across the province.
+
+Analysis Performed:
+* Processing poverty percentage data across regencies and cities
+* Ranking regions based on poverty levels
+* Calculating the average poverty rate
+* Identifying the top 5 highest and lowest poverty-rate regions
+* Creating data visualizations using Bar Charts in Microsoft Excel
+* Interpreting statistical findings
+
+The analysis reveals that Kebumen Regency recorded the highest poverty rate at 16.41%, followed by Wonosobo Regency (16.17%) and Brebes Regency (16.05%). In contrast, Semarang City had the lowest poverty rate at 4.25%, followed by Salatiga City (4.73%) and Jepara Regency (6.88%). The average poverty rate in Central Java in 2022 was 10.58%.
+Differences in poverty levels across regions may be influenced by various factors, including regional economic structures, urbanization levels, access to education, employment opportunities, and the distribution of development. Major urban areas tend to have lower poverty rates compared to regions that rely heavily on agriculture and traditional economic sectors.
+
+Tools & Methods:
+* Microsoft Excel
+* Data Cleaning & Sorting
+* Ranking Analysis
+* Descriptive Statistics
+* Bar Chart Visualization
+
+Through this project, I developed skills in:
+* Data Analysis
+* Data Visualization
+* Statistical Interpretation
+* Microsoft Excel
+* Socioeconomic Data Analysis
+* Descriptive Statistics
+* Data Cleaning
+* Public Data Analysis
+
+#DataAnalysis #DataAnalytics #Statistics #StatisticalAnalysis #DescriptiveStatistics #Excel #MicrosoftExcel #DataVisualization #BPS #PovertyAnalysis #CentralJava #OpenData #GovernmentData #SocioeconomicAnalysis #Research #Portfolio #DataScience #DataSciencePortfolio #EconomicAnalysis #PublicData
